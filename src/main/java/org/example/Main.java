@@ -4,7 +4,7 @@ import java.util.*;
 import java.util.stream.*;
 import java.util.Comparator;
 
-public class ExStream {
+public class Main {
     public static void main(String[] args) {
         Random rand = new Random();
 
